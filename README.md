@@ -14,7 +14,7 @@ Below is an example of the C+E approach on the MNIST dataset,
     
 <p align="center"><img width="800" alt="Example of the cluster + embed approach on MNIST" src="/figures/mnist_example.png">
     
-For example usage, see this [tutorial](https://github.com/lizzycoda/cluster_embed/blob/main/tutorial/tutorial.md). 
+For example usage, see this [tutorial](https://github.com/lizzycoda/ClusterEmbed_v2/blob/main/tutorial.ipynb). 
 
 ## Organization
 
